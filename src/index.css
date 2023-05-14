@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Rubik:wght@400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* The CSS box-sizing property allows us to include the padding and border in an element's total width and height. */
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
