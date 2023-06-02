@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrestaurant_website=self.webpackChunkrestaurant_website||[]).push([[35],{7313:function(e,n,t){t.r(n),t.d(n,{default:function(){return s}});var a=t(4554),c=t(7473),r=t.p+"static/media/pagenotfound.ce293654fc5b055593cf.jpg",u=t(184),s=function(){return(0,u.jsx)(c.Z,{children:(0,u.jsx)(a.Z,{container:"div",className:"home",sx:{backgroundImage:"url(".concat(r,")"),backgroundSize:"contain"}})})}}}]);
+//# sourceMappingURL=35.05af7b93.chunk.js.map
